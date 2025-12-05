@@ -1,4 +1,6 @@
-# QuickPOS Landing Page
+
+
+### QuickPOS Landing Page
 
 A modern, responsive landing page for QuickPOS - a Point of Sale system.
 
